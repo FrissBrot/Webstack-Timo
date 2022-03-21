@@ -43,8 +43,11 @@ h1{
   max-width: 956px;
 }
 
-.round {
-border-radius: 100%;
+.profileborder{
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #396774;
 }
 
 .footertext{
@@ -55,7 +58,9 @@ border-radius: 100%;
   margin-top: 50px;
 }
 
-#snapchatqrcode{
-  width: calc(60%);
-  height: calc(60%);
+.notfounderrortext{
+  font-family: arial;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
 }
