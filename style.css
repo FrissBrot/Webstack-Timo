@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  color: black;
+  background-color: #5395a7;
+  margin-top: 50px;
+}
+
+.iconsize{
+  height: 50px;
+  width: 50px;
+}
+
+h1{
+  font-size: 75px;
+  font-family: arial;
+}
+
+#onlyfanstext{
+  font-size: 30px;
+}
+
+.linkbutton{
+  border: 10px none;
+  border-radius: 100px;
+  padding: 20px;
+  background-color: #9bfff4;
+  margin-top: 27px;
+  height: 128px;
+  width: calc(90%);
+  max-width: 900px;
+  font-size: 75px;
+  color: black;
+  font-family: arial;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.linkbutton:hover{
+  background-color: #82E8BF;
+  margin-top: 25px;
+  height: 130px;
+  width: calc(91%);
+  max-width: 956px;
+}
+
+.profileborder{
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #396774;
+}
+
+.profilbildsize{
+  width: 25%;
+  height: 25%;
+  max-width: 230px;
+  max-height: 230px;
+}
+
+.footertext{
+  font-family: arial;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  margin-top: 50px;
+}
+
+.notfounderrortext{
+  font-family: arial;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+}
